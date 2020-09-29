@@ -27,5 +27,3 @@ function arrayDiffver2(a, b) {
 
 console.log(arrayDiff(a, b))
 console.log(arrayDiffver2(a, b))
-
-
